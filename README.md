@@ -1,3 +1,5 @@
+http://10.233.107.38:8501
+
 # Student Performance Analyzer
 
 A simple desktop application built with Python and Tkinter that helps a student or teacher enter marks for five subjects and quickly see the student's total, percentage, grade, pass/fail status and overall performance.
